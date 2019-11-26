@@ -1,0 +1,13 @@
+{
+  "name": "find-bad-json",
+  "version": "1.0.1",
+  "description": "Finds bad json.",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Matt Preucil",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/randymarsh77/find-bad-json.git"
+  }
+}
